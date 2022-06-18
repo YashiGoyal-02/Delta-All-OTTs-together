@@ -1,0 +1,44 @@
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5 )),url("../img/Delta_logo.png");
+	
+	background-size:cover;
+	background-position:center;
+
+}
+
+/*body {
+background-image: url("art.jpg");
+/* background-color: #e3129d;
+}*/
+.login-box{
+	max-width: 700px;
+	float:none;
+	margin: 150px auto;
+}
+.login-left{
+	background: rgba(211,211,211,0.5);
+	padding:30px;
+	width:35%;
+	height: 50%;
+	float:left;
+}
+.login-right{
+	background:#fff;
+	padding: 30px;
+	width:35%;
+	height: 50%;
+	float:left;
+}
+.form-control{
+	background-color: transparent !important;
+}
+/*.left-col{
+          
+       		border-style: solid;
+       		border-width: 1px;
+       		width:24%;
+            float:left;
+            /*padding-left:3px;
+            padding-bottom: 72px;
+
+       	}*/
